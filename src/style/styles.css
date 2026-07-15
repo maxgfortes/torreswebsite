@@ -46,6 +46,8 @@ body {
   background: var(--navy-deep);
   -webkit-font-smoothing: antialiased;
   line-height: 1.5;
+  height: 100vh;
+  width: 100%;
   position: fixed;
   inset: 0;  
   overflow: hidden;
